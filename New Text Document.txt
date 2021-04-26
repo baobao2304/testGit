@@ -1,6 +1,3 @@
 alo 123123
-<<<<<<< HEAD
 sàdálfjakalksdfjl bt1
-=======
 sahfsalflsd bt2
->>>>>>> bt2
