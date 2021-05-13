@@ -1,6 +1,4 @@
 alo 123123
-<<<<<<< HEAD
 sàdálfjakalksdfjl bt1
-=======
-sahfsalflsd bt2
->>>>>>> bt2
+sahfsalflsd bt24
+ft-2  test
