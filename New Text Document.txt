@@ -25,5 +25,3 @@ up32
 
 Sdfsdfsdfs
 sdffsd
-Test ft1
-Test ft3
